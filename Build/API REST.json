@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Demo-Equipo_Rest",
+"productVersion": "0.1",
+"dataUrl": "API REST.data.unityweb",
+"wasmCodeUrl": "API REST.wasm.code.unityweb",
+"wasmFrameworkUrl": "API REST.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.22f1"
+}
